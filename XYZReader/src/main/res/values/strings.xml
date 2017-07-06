@@ -10,5 +10,6 @@
     <string name="transition_photo">imageItem</string>
 
     <string name="up">Up</string>
+    <string name="no_internet">No Internet Connection Available</string>
 
 </resources>

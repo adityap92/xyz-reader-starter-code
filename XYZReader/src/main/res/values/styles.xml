@@ -27,7 +27,7 @@
         </item>
 
         <item name="android:windowReenterTransition">
-            @android:transition/slide_bottom
+            @android:transition/slide_right
         </item>
 
     </style>
